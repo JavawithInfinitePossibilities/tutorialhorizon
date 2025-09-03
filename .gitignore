@@ -27,10 +27,9 @@ replay_pid*
 /.mvn/
 /.idea/
 /Java-Core-Beginner/.mvn/
-/Java-Core-Hard/.mvn/
 /Java-Core-Medium/.mvn/
+/Java-Core-Hard/.mvn/
 /Java-Core-Beginner/target/
-/Java-Core-Hard/target/
 /Java-Core-Medium/target/
-/.idea/
+/Java-Core-Hard/target/
 
